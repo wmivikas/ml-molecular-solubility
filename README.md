@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
 # 🧪 Molecular Solubility Prediction
 
 A machine learning project to predict **molecular solubility (logS)** using chemical descriptors and regression models.
